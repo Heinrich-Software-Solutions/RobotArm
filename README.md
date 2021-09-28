@@ -44,13 +44,13 @@ Selbstgebauter Roboterarm / Homemade robot arm
 Clone the project
 
 ```bash
-  git clone https://github.com/CodingMarius/RobotArm/
+  git clone https://github.com/CodingMarius/RobotArm.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd RobotArm-main
+  cd RobotArm
 ```
 
 Install dependencies
