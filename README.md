@@ -5,7 +5,7 @@ Selbstgebauter Roboterarm / Homemade robot arm
 
 ## Bilder
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![My Robot](https://raw.githubusercontent.com/CodingMarius/RobotArm/main/image.png)
 
   
 ## Components
