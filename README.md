@@ -30,7 +30,7 @@ Selbstgebauter Roboterarm / Homemade robot arm
 
 **Client:** SSH
 
-**Robot:** Johnny-Five, temporal, Node.js
+**Robot:** Johnny-Five, temporal, Node.js, Raspi IO
   
 ## Roadmap
 
