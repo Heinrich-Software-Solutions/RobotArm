@@ -9,7 +9,6 @@ Selbstgebauter Roboterarm / Homemade robot arm
 
   
 ## Components
-
 - Jumper Wire Kabel 
 - Mikroschalter
 - IRF520 MOSFET Driver | 5 x
@@ -17,9 +16,10 @@ Selbstgebauter Roboterarm / Homemade robot arm
 - Roboter-Arm, Modellbausatz
 - Relais 3.3v | 10 x
 - Raspberry Pi 3 Model B+
-- Litze
-## Features
+- Litzen
 
+
+## Features
 - 4 Achsen
 - Greifsystem
 - Geschwindigkeitskontrolle
@@ -32,14 +32,14 @@ Selbstgebauter Roboterarm / Homemade robot arm
 
 **Robot:** Johnny-Five, temporal, Node.js, Raspi IO
   
-## Roadmap
+## To-do-Liste
 
 - GUI App für eine einfachere Kontrolle.
 
 - Mehrere Endschalter für eine genauere Positionskontrolle.
 
   
-## Run Locally
+## Installation
 
 Clone the project
 
