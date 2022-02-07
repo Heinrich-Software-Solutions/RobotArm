@@ -5,7 +5,7 @@ Selbstgebauter Roboterarm / Homemade robot arm
 
 ## Bilder
 
-![My Robot](https://raw.githubusercontent.com/CodingMarius/RobotArm/main/image.png)
+![My Robot](https://raw.githubusercontent.com/AlgorithmHuman/RobotArm/main/image.png)
 
   
 ## Components
@@ -44,7 +44,7 @@ Selbstgebauter Roboterarm / Homemade robot arm
 Clone the project
 
 ```bash
-  git clone https://github.com/CodingMarius/RobotArm.git
+  git clone https://github.com/AlgorithmHuman/RobotArm.git
 ```
 
 Go to the project directory
